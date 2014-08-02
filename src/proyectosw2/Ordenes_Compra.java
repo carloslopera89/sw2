@@ -8,6 +8,7 @@ package proyectosw2;
  *
  * @author Administrator
  */
+//esto es una prueba de git
 public class Ordenes_Compra {
      private int numero_orden;
     private String fechaSalida;
